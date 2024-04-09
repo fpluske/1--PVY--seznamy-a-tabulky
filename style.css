@@ -102,6 +102,6 @@ body::after {
     font-style: italic;
 }
 
-.dt {
+dt {
     font-weight: bold;
 }
